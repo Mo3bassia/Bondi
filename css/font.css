@@ -1,0 +1,48 @@
+/* roboto ExtraLight */
+@font-face {
+  font-family: "roboto";
+  font-weight: 100;
+  src: url("../fonts/IBMPlexSansArabic-ExtraLight.ttf") format("truetype");
+}
+
+/* roboto Light */
+@font-face {
+  font-family: "roboto";
+  font-weight: 200;
+  src: url("../fonts/IBMPlexSansArabic-Light.ttf") format("truetype");
+}
+
+/* roboto Medium */
+@font-face {
+  font-family: "roboto";
+  font-weight: 300;
+  src: url("../fonts/IBMPlexSansArabic-Medium.ttf") format("truetype");
+}
+
+/* roboto Regular */
+@font-face {
+  font-family: "roboto";
+  font-weight: 400;
+  src: url("../fonts/IBMPlexSansArabic-Regular.ttf") format("truetype");
+}
+
+/* roboto SemiBold */
+@font-face {
+  font-family: "roboto";
+  font-weight: 500;
+  src: url("../fonts/IBMPlexSansArabic-SemiBold.ttf") format("truetype");
+}
+
+/* roboto Bold */
+@font-face {
+  font-family: "roboto";
+  font-weight: 700;
+  src: url("../fonts/IBMPlexSansArabic-Bold.ttf") format("truetype");
+}
+
+/* roboto Thin */
+@font-face {
+  font-family: "roboto";
+  font-weight: 900; /* تحديد 900 كوزن للوزن "Thin" */
+  src: url("../fonts/IBMPlexSansArabic-Thin.ttf") format("truetype");
+}

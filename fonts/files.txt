@@ -1,0 +1,9 @@
+D:\My Career\bootstrap  try\fonts\files.txt
+D:\My Career\bootstrap  try\fonts\IBMPlexSansArabic-Bold.ttf
+D:\My Career\bootstrap  try\fonts\IBMPlexSansArabic-ExtraLight.ttf
+D:\My Career\bootstrap  try\fonts\IBMPlexSansArabic-Light.ttf
+D:\My Career\bootstrap  try\fonts\IBMPlexSansArabic-Medium.ttf
+D:\My Career\bootstrap  try\fonts\IBMPlexSansArabic-Regular.ttf
+D:\My Career\bootstrap  try\fonts\IBMPlexSansArabic-SemiBold.ttf
+D:\My Career\bootstrap  try\fonts\IBMPlexSansArabic-Thin.ttf
+D:\My Career\bootstrap  try\fonts\OFL.txt
